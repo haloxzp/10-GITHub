@@ -18,6 +18,7 @@
     [super viewDidLoad];
     NSLog(@"Git");
     NSLog(@"new2");
+    NSLog(@"这是在GitHUB上面编写的");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
